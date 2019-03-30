@@ -1,6 +1,16 @@
 <template>
 	<app>
-		vue app
+		<v-content>
+
+			<navigation-drawer-component/>
+
+			<v-container fluid>
+				<nuxt/>
+			</v-container>
+
+			<footer-component/>
+
+		</v-content>
 	</app>
 </template>
 
@@ -9,3 +19,7 @@ export default {
   
 }
 </script>
+
+<style lang="scss">
+
+</style>
