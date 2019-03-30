@@ -1,5 +1,5 @@
 <template>
-	<app>
+	<v-app>
 		<v-content>
 
 			<navigation-drawer-component/>
@@ -11,7 +11,7 @@
 			<footer-component/>
 
 		</v-content>
-	</app>
+	</v-app>
 </template>
 
 <script>
@@ -21,5 +21,5 @@ export default {
 </script>
 
 <style lang="scss">
-
+	@import '../assets/scss/default.scss';
 </style>
