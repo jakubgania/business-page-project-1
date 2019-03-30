@@ -1,6 +1,6 @@
 <template>
     <v-layout row wrap>
-        index page
+        kontakt
     </v-layout>
 </template>
 

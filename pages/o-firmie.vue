@@ -1,6 +1,6 @@
 <template>
     <v-layout row wrap>
-        index page
+        o firmie
     </v-layout>
 </template>
 
